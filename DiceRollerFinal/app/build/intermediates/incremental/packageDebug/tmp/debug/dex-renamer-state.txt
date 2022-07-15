@@ -1,0 +1,4 @@
+#Fri Jul 15 23:32:28 CEST 2022
+base.0=C\:\\Users\\Filip\\Downloads\\android-kotlin-fundamentals-apps-master\\android-kotlin-fundamentals-apps-master\\DiceRollerFinal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
